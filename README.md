@@ -1,2 +1,2 @@
 # HTML-CSS-Javascript-for-Web-Developers
-solution
+module2-solution
